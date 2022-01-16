@@ -1,0 +1,23 @@
+{
+  "name": "codeview",
+  "version": "1.0.0",
+  "description": "- Get repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasminSimana/codeview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasminSimana/codeview/issues"
+  },
+  "homepage": "https://github.com/YasminSimana/codeview#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
